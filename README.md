@@ -30,8 +30,15 @@ Ele combina **monitoramento por GPS**, **biofeedback com IA**, **alertas automá
 
 ---
 
-## 🎥 Vídeo Pitch
-https://drive.google.com/file/d/1OGFC4b6g5y5bRbPVAoGMtGiLVsyOPhXr/view?usp=sharing
+## 🎥 Vídeo Pitch:
+
+> https://drive.google.com/file/d/1OGFC4b6g5y5bRbPVAoGMtGiLVsyOPhXr/view?usp=sharing
+
+---
+
+## 👉 Slide da Apresentação:
+
+> https://www.canva.com/design/DAGqubF7M0s/lb9TrW0G0MY37y0gIt9vvw/edit?utm_content=DAGqubF7M0s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 ## 🚀 Principais Funcionalidades:
