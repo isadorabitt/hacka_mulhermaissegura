@@ -116,10 +116,11 @@ O +Segura tem potencial para se tornar a **primeira plataforma nacional de prote
 ## ✅ Como rodar o app:
 
 Basta acessar o link público no Snack Expo:
-👉 **https://snack.expo.dev/@isadora55/hacka_maissegura-app**
+👉 **[https://snack.expo.dev/@isadora55/hacka_maissegura-app](https://snack.expo.dev/@isadora55/hacka_maissegura-app?platform=android)**
 
 Ou escanear o QR Code na plataforma usando o app **Expo Go** (disponível na Google Play e App Store).
 
+> Clique em **LAUNCH SNACK** para rodar o app! 
 ---
 
 ## ✅ Licença:
