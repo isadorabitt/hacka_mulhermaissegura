@@ -30,6 +30,10 @@ Ele combina **monitoramento por GPS**, **biofeedback com IA**, **alertas automá
 
 ---
 
+## 🎥 Vídeo Pitch
+https://drive.google.com/file/d/1OGFC4b6g5y5bRbPVAoGMtGiLVsyOPhXr/view?usp=sharing
+
+---
 ## 🚀 Principais Funcionalidades:
 
 | Funcionalidade                    | Descrição                                                                                               |
@@ -45,7 +49,7 @@ Ele combina **monitoramento por GPS**, **biofeedback com IA**, **alertas automá
 | **Modo Invisível (Futuro)**       | Interface disfarçada para proteger a usuária de vigilância do agressor                                  |
 
 ---
-## 🎥Demo do Aplicativo: 
+## 🎥 Demo do Aplicativo: 
 
 
 > https://github.com/user-attachments/assets/a9401d9f-0ac9-4ec0-b8ee-6ef3e10e3bf5
